@@ -1,1 +1,1 @@
-# PhawAI: Predicción de enfermedades coronarias.ipynb
+# PhawAI: Predicción de enfermedades coronarias
